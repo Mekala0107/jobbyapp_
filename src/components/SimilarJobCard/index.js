@@ -22,6 +22,7 @@ const SimilarJobCard = props => {
           alt="similar job company logo"
           className="company-logo-card"
         />
+        
         <div className="title-rating-container-card">
           <h1 className="job-title-card">{title}</h1>
           <div className="rating-container-card">
