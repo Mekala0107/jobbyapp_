@@ -1,0 +1,11 @@
+/* eslint-disable */
+
+import '@testing-library/jest-dom'
+import {configure} from '@testing-library/react'
+
+configure({testIdAttribute: 'data-testid'})
+git add .gitattributes
+git commit -m "Fix .gitattributes syntax issue"
+
+git push -u origin master
+
