@@ -430,3 +430,17 @@ Returns a response containing the job details
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
+### Screenshots
+
+![Screenshot (1355)](https://github.com/user-attachments/assets/587a4620-f5b4-4890-86a0-e1a7ca3a896f)
+
+![Screenshot (1356)](https://github.com/user-attachments/assets/73227762-74f9-4fa8-ae38-fb30e17aa730)
+
+![Screenshot (1357)](https://github.com/user-attachments/assets/05f14897-0307-4fc5-959c-c41823972487)
+
+![Screenshot (1358)](https://github.com/user-attachments/assets/e583052a-089f-4efc-9601-a37b4bd112d6)
+
+### Live link
+
+https://jobfind.ccbp.tech/login
